@@ -4,4 +4,5 @@ Egy autó kereskedés szimulálását alkalmazzuk, amelyben lehet eladni autót 
 
 ## Készítették
 Dinyési Barnabás Ákos
+
 Kovács Bálint Benedek
