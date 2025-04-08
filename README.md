@@ -1,4 +1,7 @@
-# progtech-beadando
+# Autó kereskedés
 
-## Üzleti szereplők
-Megrendelő: Herbák Marcell
+Egy autó kereskedés szimulálását alkalmazzuk, amelyben lehet eladni autót és lehet megvenni.
+
+## Készítették
+Dinyési Barnabás Ákos
+Kovács Bálint Benedek
