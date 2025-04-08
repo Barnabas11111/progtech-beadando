@@ -120,7 +120,7 @@ Szerver (Host) gép: Az adatbázis rendszer és a háttérfolyamatokat ellátó 
 
 ## 9. Adatbázis terv
 
-![dbterv]([Dokumentumok/dbterv.png](https://github.com/Barnabas11111/progtech-beadando/blob/main/Dokumentumok/dbterv.png))
+![dbterv](https://github.com/Barnabas11111/progtech-beadando/blob/main/Dokumentumok/dbterv.png)
 
 ## 10. Implementációs terv
 A projektet két részre oszlik: a frontendre és a backendre. A frontend Java Swing segítségével készül, míg a backend Java keretrendszerben.
